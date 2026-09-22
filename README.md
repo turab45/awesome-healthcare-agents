@@ -176,6 +176,7 @@ Tools and standards that help make healthcare-agent systems safer, auditable, an
 
 | Resource | Type | Description |
 |---|---|---|
+| [Allowly Receipt Format](https://github.com/Allowly-AI/allowly-receipt-format) | Decision audit | Open receipt format and offline verifiers for signed policy decisions; verification authenticates recorded bytes, not source truth, execution, approval identity, or completeness. |
 | [FHIR](https://hl7.org/fhir/) | Interoperability standard | API/data standard for exchanging healthcare information. |
 | [Guardrails AI](https://github.com/guardrails-ai/guardrails) | Output validation | Validators and structured-output checks for LLM applications. |
 | [HAPI FHIR](https://github.com/hapifhir/hapi-fhir) | FHIR server/client | Open-source Java FHIR implementation for healthcare interoperability. |
