@@ -184,7 +184,6 @@ Tools and standards that help make healthcare-agent systems safer, auditable, an
 | [PySyft](https://github.com/OpenMined/PySyft) | Privacy-preserving ML | Federated and privacy-preserving computation for sensitive data. |
 | [SMART on FHIR](https://smarthealthit.org/) | App authorization | OAuth-based launch and authorization framework for EHR apps. |
 | [TensorFlow Privacy](https://github.com/tensorflow/privacy) | Differential privacy | Differential privacy tooling for ML training. |
-| [ai-a3-laws](https://github.com/stevenzhao07/ai-a3-laws) | Runtime constraints | Deterministic authority / autonomy / accountability checks over an autonomous decision, returning a violation list; usable as a gate inside an agent loop. Zero-dependency CLI (2026). |
 | [ai-governance-checklist](https://github.com/stevenzhao07/ai-governance-checklist) | Governance checklist | Governance self-check with model-card and data-card templates covering human oversight, fairness, provenance and monitoring. Zero-dependency CLI (2026). |
 | [delivery-guard](https://github.com/stevenzhao07/delivery-guard) | Pre-release gates | 17 deterministic pre-delivery gates plus a dual SHA-256 provenance ledger, making "was this artefact reviewed" answerable. Zero-dependency CLI (2026). |
 
@@ -441,7 +440,6 @@ If you find this list useful, please give it a star on GitHub and share it with 
 | [PySyft](https://github.com/OpenMined/PySyft) | 隐私保护机器学习 | 面向敏感数据的联邦与隐私保护计算。 |
 | [SMART on FHIR](https://smarthealthit.org/) | 应用授权 | 面向 EHR 应用的基于 OAuth 的启动与授权框架。 |
 | [TensorFlow Privacy](https://github.com/tensorflow/privacy) | 差分隐私 | 面向机器学习训练的差分隐私工具。 |
-| [ai-a3-laws](https://github.com/stevenzhao07/ai-a3-laws) | 运行时约束 | 对自主决策执行确定性权威/自治/问责检查并返回违规列表；可在智能体循环内用作门控。零依赖 CLI（2026）。 |
 | [ai-governance-checklist](https://github.com/stevenzhao07/ai-governance-checklist) | 治理清单 | 含模型卡与数据卡模板的治理自检，覆盖人类监督、公平性、溯源与监控。零依赖 CLI（2026）。 |
 | [delivery-guard](https://github.com/stevenzhao07/delivery-guard) | 发布前门禁 | 17 项确定性发布前门禁加双 SHA-256 溯源账本，使"该产物是否已评审"可回答。零依赖 CLI（2026）。 |
 
