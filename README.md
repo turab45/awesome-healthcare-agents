@@ -79,9 +79,7 @@ Medical LLMs and assistants that are frequently used as backbones or baselines f
 | Project | Domain | Description |
 |---|---|---|
 | [ChatDoctor](https://github.com/Kent0n-Li/ChatDoctor) | Medical consultation | LLM-based medical consultation model and dataset work. |
-| [Clinical Camel](https://github.com/starmpcc/ClinicalCamel) | Clinical reasoning | Open clinical LLM project trained for medical QA and reasoning. |
-| [ClinicalGPT](https://github.com/ClinicalGPT/ClinicalGPT) | Clinical assistant | Fine-tuned clinical assistant built around EMR and note-style data. |
-| [HealthGPT](https://github.com/StanfordBioinformatics/healthgpt) | Personal health | Health-tracker assistant for longitudinal personal health data. |
+| [HealthGPT](https://github.com/StanfordBDHG/HealthGPT) | Personal health | Health-tracker assistant for longitudinal personal health data. |
 | [Med-Gemini](https://research.google/blog/advancing-medical-ai-with-med-gemini/) | Medical foundation model | Google research model family for multimodal medical reasoning. |
 | [MedGemma](https://github.com/google-health/medgemma) | Open medical models | Google Health open models for medical text and multimodal use cases. |
 | [Med-PaLM 2](https://arxiv.org/abs/2305.09617) | Medical reasoning | Google medical LLM evaluated on medical QA and clinical reasoning. |
@@ -112,7 +110,7 @@ Medical imaging, report generation, segmentation, and multimodal tool-use projec
 | Project | Domain | Description |
 |---|---|---|
 | [BAAI Cardiac Agent](https://github.com/plantain-herb/Cardiac-Agent) | Cardiac imaging | Agentic system for cardiovascular magnetic resonance analysis. |
-| [BiomedCLIP](https://github.com/microsoft/BiomedCLIP) | Vision-language model | Biomedical image-text foundation model often used as an imaging tool. |
+| [BiomedCLIP](https://github.com/microsoft/BiomedCLIP_data_pipeline) | Vision-language model | Biomedical image-text foundation model often used as an imaging tool. |
 | [ChatCAD](https://github.com/zhaozh10/ChatCAD) | Radiology assistant | LLM-based assistant for computer-aided diagnosis workflows. |
 | [MedRAX](https://github.com/bowang-lab/MedRAX) | Chest X-ray reasoning | Medical reasoning agent for chest X-ray interpretation and tool use. |
 | [MedSAM](https://github.com/bowang-lab/MedSAM) | Segmentation | Segment Anything adaptation for medical image segmentation. |
@@ -338,9 +336,7 @@ If you find this list useful, please give it a star on GitHub and share it with 
 | 项目 | 领域 | 描述 |
 |---|---|---|
 | [ChatDoctor](https://github.com/Kent0n-Li/ChatDoctor) | 医疗咨询 | 基于大语言模型的医疗咨询模型与数据集工作。 |
-| [Clinical Camel](https://github.com/starmpcc/ClinicalCamel) | 临床推理 | 面向医学问答与推理训练的开源临床大模型项目。 |
-| [ClinicalGPT](https://github.com/ClinicalGPT/ClinicalGPT) | 临床助手 | 围绕电子病历与笔记式数据微调的临床助手。 |
-| [HealthGPT](https://github.com/StanfordBioinformatics/healthgpt) | 个人健康 | 面向纵向个人健康数据的健康追踪助手。 |
+| [HealthGPT](https://github.com/StanfordBDHG/HealthGPT) | 个人健康 | 面向纵向个人健康数据的健康追踪助手。 |
 | [Med-Gemini](https://research.google/blog/advancing-medical-ai-with-med-gemini/) | 医学基础模型 | 面向多模态医学推理的 Google 研究模型系列。 |
 | [MedGemma](https://github.com/google-health/medgemma) | 开放医学模型 | Google Health 面向医学文本与多模态用例的开放模型。 |
 | [Med-PaLM 2](https://arxiv.org/abs/2305.09617) | 医学推理 | 在医学问答与临床推理上评估的 Google 医学大模型。 |
@@ -371,7 +367,7 @@ If you find this list useful, please give it a star on GitHub and share it with 
 | 项目 | 领域 | 描述 |
 |---|---|---|
 | [BAAI Cardiac Agent](https://github.com/plantain-herb/Cardiac-Agent) | 心脏影像 | 面向心血管磁共振分析的智能体系统。 |
-| [BiomedCLIP](https://github.com/microsoft/BiomedCLIP) | 视觉语言模型 | 常用作影像工具的生物医学图文基础模型。 |
+| [BiomedCLIP](https://github.com/microsoft/BiomedCLIP_data_pipeline) | 视觉语言模型 | 常用作影像工具的生物医学图文基础模型。 |
 | [ChatCAD](https://github.com/zhaozh10/ChatCAD) | 放射助手 | 基于 LLM 的计算机辅助诊断工作流助手。 |
 | [MedRAX](https://github.com/bowang-lab/MedRAX) | 胸片推理 | 面向胸片解读与工具使用的医学推理智能体。 |
 | [MedSAM](https://github.com/bowang-lab/MedSAM) | 分割 | Segment Anything 在医学图像分割上的适配。 |
