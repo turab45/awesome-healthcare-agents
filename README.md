@@ -507,4 +507,3 @@ If you find this list useful, please give it a star on GitHub and share it with 
 如果你觉得这个清单有用，请在 GitHub 上为它加星，并与从事医疗保健 AI 智能体的其他人分享。
 
 
-| negctl | https://github.com/stevenzhao07/lgd-negctl-does-not-exist-20261110 | negative control |
